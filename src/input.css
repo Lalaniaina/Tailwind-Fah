@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .title2 {
+        @apply font-bold md:text-[20px] text-[15px] py-5;
+    }
+
+    .paragraphe {
+        @apply text-[12px];
+    }
+}
+
+.ftfamfiche{
+    font-family: 
+}
